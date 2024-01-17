@@ -8,7 +8,7 @@ Passionate about crafting comprehensive solutions across the entire web developm
 
 * 🌍  I'm based in Addis Ababa
 * ✉️  You can contact me at [https://github.com/henok206](mailto:https://github.com/henok206)
-* 🧠  I'm learning Type Script
+* 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Full Stack Web Development Projects
 * ⚡  Fitness and Wellness Journey
 
