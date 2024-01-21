@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Henok Teshome
 =====================================================================================================================================
 
-Full Stack Developer and Enthusiast
------------------------------------
+Software Engineer | Full Stack Developer
+----------------------------------------
 
 Passionate about crafting comprehensive solutions across the entire web development spectrum. As a Full Stack Developer, I thrive on building seamless user experiences from the frontend to the backend. Proficient in technologies like React for dynamic interfaces and Node.js for scalable server-side logic, I enjoy solving complex challenges to deliver robust and efficient applications.
 
 * 🌍  I'm based in Addis Ababa
-* ✉️  You can contact me at [https://github.com/henok206](mailto:https://github.com/henok206)
-* 🧠  I'm learning TypeScript
+* ✉️  You can contact me at [henoksetegne@gmail.com](mailto:henoksetegne@gmail.com)
 * 🤝  I'm open to collaborating on Full Stack Web Development Projects
 * ⚡  Fitness and Wellness Journey
 
@@ -36,6 +35,4 @@ Passionate about crafting comprehensive solutions across the entire web developm
 
 <a href="https://github.com/henok206" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henok206&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/henok206/jspractice" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=henok206&repo=jspractice&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
